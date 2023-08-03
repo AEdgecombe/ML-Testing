@@ -6,31 +6,8 @@ This is a simple sentiment analysis project that uses a Naive Bayes classifier t
 
 To run this project, you need to have Python 3.x and the required Python libraries. You can install the necessary libraries using the `requirements.txt` file.
 
-```bash
-pip install -r requirements.txt
-Dataset
+## Dataset
 The dataset used for training and testing the sentiment analysis model is stored in the file big_sentiment_data.csv. It contains synthetic text samples and their associated sentiment labels.
-
-Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/<your-github-username>/sentiment-analysis.git
-cd sentiment-analysis
-Install the required libraries:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebook or the Python script:
-bash
-Copy code
-python main.py
-Code Overview
-main.py: The main script to run the sentiment analysis. It loads the dataset, preprocesses the text data, and trains a Naive Bayes classifier for sentiment analysis.
-
-big_sentiment_data.csv: The dataset containing text samples and their sentiment labels.
-
-requirements.txt: The list of required Python libraries.
 
 Customization
 You can customize the project according to your needs:
