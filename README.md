@@ -17,7 +17,7 @@ Use your own dataset: Replace big_sentiment_data.csv with your dataset containin
 Fine-tune the model: Experiment with different classifiers or adjust hyperparameters to improve the accuracy.
 
 Acknowledgments
-The dataset used in this project is synthetic and used for educational purposes only. It was generated for demonstration purposes and does not represent real-world data.
+The dataset used in this project is synthetic and used for educational purposes only. It was generated for demonstration purposes and does not represent real-world data. Looking to build on this.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
